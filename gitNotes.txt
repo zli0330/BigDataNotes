@@ -1,1 +1,2 @@
-I have leaned about git init. After I commit this file to my repository, what will happen?? Apparently it saves changes instead of file. yay!
+I have leaned about git init. After I commit this file to my repository, what will happen?? Apparently it saves changes instead of file. yay! 
+This is coool, Yueh was here. :)
