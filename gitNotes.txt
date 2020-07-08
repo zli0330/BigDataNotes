@@ -1,0 +1,1 @@
+I have leaned about git init. After I commit this file to my repository, what will happen??
